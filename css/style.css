@@ -43,6 +43,10 @@ body {
     line-height: 1.35;
 }
 
+.menu__btn {
+    display: none;
+}
+
 .container {   
     max-width: 1440px;
     padding: 0 10px;
